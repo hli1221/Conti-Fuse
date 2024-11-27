@@ -1,0 +1,9 @@
+model:
+  layers: 3
+  num_K: 7
+  hidden_channel: 12
+  factor1: 10
+  factor2: 10
+  crop_size: 192
+  clip: 0.01
+  head: 4
